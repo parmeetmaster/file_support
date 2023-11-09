@@ -1,5 +1,10 @@
 ## 1.0.7
 ##### General
+- Flutter 3.13.8 upgrade added
+
+
+## 1.0.7
+##### General
 - Flutter 3 upgrade added
 
 ## 1.0.5

@@ -6,7 +6,6 @@ import 'package:logger/logger.dart';
 import 'package:mime_type/mime_type.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:uuid/uuid.dart';
-import 'package:uuid/uuid_util.dart';
 import '../utils/utils.dart';
 import 'dart:async';
 import 'dart:convert';
